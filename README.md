@@ -712,6 +712,11 @@ Renewable Energy Manager
 IoT & KI-Systementwickler
 Spezialist für Smart Energy Systeme
 
+
+
+
+
+
 English:
 
 Advanced AIoT Smart Room Automation & Security System
