@@ -1,8 +1,8 @@
-# 🧠 Advanced AIoT Smart Room Automation & Security System
+#  Advanced AIoT Smart Room Automation & Security System
 
 ESP32 • MQTT • Node-RED • Firebase • Telegram Alerts • Python Kamera Integration • Echtzeit Dashboard • Smart Security System
 
-# 📌 Projektbeschreibung
+#  Projektbeschreibung
 
 Dieses Projekt demonstriert ein professionelles AIoT Smart Room Automation & Security System mit ESP32, MQTT-Kommunikation, Node-RED Automatisierung, Firebase Realtime Database, Telegram Bot Integration und Python-basierter Kameraüberwachung.
 
@@ -56,7 +56,7 @@ Das System wurde als vollständige professionelle IoT Automatisierungs- und Sich
 
 * Cloudbasierte Überwachungslösungen
 
-# 🚀 Funktionen
+#  Funktionen
 
 ## 🔹 Echtzeitüberwachung
 
